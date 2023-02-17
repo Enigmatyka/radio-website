@@ -1,0 +1,69 @@
+.crew-member {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.crew-member-data {
+    font-size: large;
+    font-weight: bold;
+    color: black;
+    vertical-align: text-top;
+}
+
+.crew-member-name {
+    font-size: xx-large;
+    font-weight: bold;
+    color: #cc1c1c;
+    margin-bottom: 5%;
+}
+
+.crew-member-table {
+    border: 2px solid #cc1c1c;
+    max-width: 400px;
+    width: 400px;
+    margin-left: auto;
+	margin-right: auto;
+    float: none;
+}
+
+.header {
+    padding: 5px;
+    height: 22px;
+    width: 200px;
+    background: #cc1c1c;
+    background: -webkit-gradient(linear, left top, left bottom, from(#0988e7), to(#0988e7));
+    background: -moz-linear-gradient(top,  #0988e7,  #0988e7);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#faa51a, endColorstr=#0988e7);
+    color: white;
+    text-shadow: 0 1px 1px rgba(0,0,0,.3);
+    border-bottom: 1px solid #0988e7;
+    font-weight: bold;
+    font-size: large;
+}
+
+.avatar {
+    vertical-align: top;
+    width: 126px;
+    float: top;
+}
+
+.field {
+    background:#C0C0C0;
+    padding: 5px;
+    color: #666666;
+    line-height: 17px;
+    float: top;
+}
+
+.crew-member-data {
+    float: top;
+}
+
+hr { 
+    display: block; 
+    height: 1px;
+    border: 0; 
+    border-top: 1px solid black;
+    margin: 1em 0; 
+    padding: 0; 
+}
